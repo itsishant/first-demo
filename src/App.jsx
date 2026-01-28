@@ -2,6 +2,7 @@ function App() {
   const handleClick = () => {
     alert("helllo world")
   }
+  
   return (
     <div className="bg-blue-600 min-h-screen">
       <div className="font-extrabold flex">Sign up</div>
